@@ -1,0 +1,6 @@
+[submodule "final-projects/heart-failure-predictor"]
+	path = final-projects/heart-failure-predictor
+	url = https://github.com/Asir-IO/heart-failure-predictor
+[submodule "final-projects/digit-classification"]
+	path = final-projects/digit-classification
+	url = https://github.com/Asir-IO/digit-classification

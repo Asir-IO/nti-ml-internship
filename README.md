@@ -6,8 +6,8 @@ A collection of machine learning algorithm implementations and projects develope
 
 | Project | Description |
 | :--- | :--- |
-| **[Heart Failure Predictor ](./final-projects/heart-failure-predictor)**<br>(`Final Project`)| Gradio ML app predicting heart failure risk.|
-| **[Digit Classifier](./digit-classification)**<br>(`Final Project`) | Interactive MNIST digit recognizer built with TensorFlow & Gradio.|
+| **[Heart Failure Predictor ](https://github.com/Asir-IO/heart-failure-predictor/tree/improved)**<br>(`Final Project`)| Gradio ML app predicting heart failure risk.|
+| **[Digit Classifier](https://github.com/Asir-IO/digit-classification/tree/main)**<br>(`Final Project`) | Interactive MNIST digit recognizer built with TensorFlow & Gradio.|
 | **[Support Vector Machines](./labs/SVM)** | Used it via sci-kit learn.|
 | **[PCA](./labs/PCA)** | Implemented it from scratch. |
 | **[Linear Regression](./labs/Linear-Regression)** | Used it via sci-kit learn.|
